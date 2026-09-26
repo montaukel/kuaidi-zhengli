@@ -1,0 +1,7 @@
+node_modules
+dist
+work
+.sites-runtime
+*.local
+*.tsbuildinfo
+.DS_Store
